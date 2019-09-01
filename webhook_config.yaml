@@ -1,4 +1,0 @@
-type: "GitHub"
-github:
-  secretReference:
-    name: "mysecret"
